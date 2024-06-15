@@ -2,8 +2,6 @@
 
 ## Informations Générales
 
-**Syrine HAQUIN IAI**
-
 **2023 - 2024**
 
 ## Procédure pour tester l'application
